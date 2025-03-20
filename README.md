@@ -49,12 +49,12 @@ This project explores **how work conditions, employer support, and fear of conse
    cd mental-health-tech
    ```
 
-2.Install dependencies:
-```
-pip install pandas matplotlib seaborn plotly
-```
+2. Install dependencies:
+   ```
+   pip install pandas kagglehub jupyter
+   ```
 
-3.Run the Jupyter Notebook:
-```
-jupyter notebook
-```
+4. Run the Jupyter Notebook:
+   ```
+   jupyter notebook
+   ```
