@@ -38,7 +38,7 @@ This project explores **how work conditions, employer support, and fear of conse
 
 ## 🛠️ Tools Used
 
-- **Python**: `pandas`
+- **Python**: `pandas` `bokeh` `numpy`
 - **Jupyter Notebook**
 
 ## 🚀 How to Run the Project
@@ -51,7 +51,7 @@ This project explores **how work conditions, employer support, and fear of conse
 
 2. Install dependencies:
    ```
-   pip install pandas kagglehub jupyter
+   pip install pandas kagglehub jupyter numpy
    ```
 
 4. Run the Jupyter Notebook:
